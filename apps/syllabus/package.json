@@ -33,7 +33,7 @@
     "babel-plugin-styled-components": "2.0.7",
     "concurrently": "7.2.1",
     "cssnano": "5.1.11",
-    "dotenv": "16.0.1",
+    "dotenv": "16.4.7",
     "eslint": "8.17.0",
     "eslint-config-custom": "workspace:*",
     "postcss": "8.4.31",
