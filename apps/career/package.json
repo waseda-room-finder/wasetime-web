@@ -78,7 +78,7 @@
     "single-spa-react": "3.2.0",
     "styled-components": "5.3.3",
     "uuid": "^9.0.1",
-    "vite": "4.3.9",
+    "vite": "4.5.3",
     "vite-plugin-dynamic-import": "^0.7.1",
     "wasedatime-ui": "*"
   },
