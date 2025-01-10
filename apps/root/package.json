@@ -18,14 +18,14 @@
     "tailwind:build": "pnpx tailwindcss build -i ./src/styles/styles.css -o ./src/styles/tailwind-build-output.css"
   },
   "devDependencies": {
-    "@babel/core": "7.18.2",
-    "@babel/eslint-parser": "7.18.2",
-    "@babel/plugin-syntax-flow": "7.17.12",
-    "@babel/plugin-transform-react-jsx": "7.17.12",
-    "@babel/plugin-transform-runtime": "7.18.2",
-    "@babel/preset-env": "7.18.2",
-    "@babel/preset-typescript": "7.17.12",
-    "@babel/runtime": "7.18.3",
+    "@babel/core": "7.26.0",
+    "@babel/eslint-parser": "7.26.5",
+    "@babel/plugin-syntax-flow": "7.26.0",
+    "@babel/plugin-transform-react-jsx": "7.25.9",
+    "@babel/plugin-transform-runtime": "7.25.9",
+    "@babel/preset-env": "7.26.0",
+    "@babel/preset-typescript": "7.26.0",
+    "@babel/runtime": "7.26.0",
     "@types/node": "17.0.41",
     "@types/react": "17.0.39",
     "@types/react-dom": "17.0.13",
@@ -99,8 +99,8 @@
     "workbox-window": "6.5.3"
   },
   "peerDependencies": {
-    "@babel/plugin-syntax-flow": "7.17.12",
-    "@babel/plugin-transform-react-jsx": "7.17.12",
+    "@babel/plugin-syntax-flow": "7.26.0",
+    "@babel/plugin-transform-react-jsx": "7.25.9",
     "eslint-plugin-react-hooks": "4.5.0",
     "prop-types": "15.8.1",
     "react-is": "18.1.0",
