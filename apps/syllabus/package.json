@@ -39,7 +39,7 @@
     "postcss": "8.4.31",
     "prettier": "2.6.2",
     "prettier-plugin-tailwindcss": "^0.2.8",
-    "sass": "1.52.2",
+    "sass": "1.83.4",
     "single-spa-react": "4.6.1",
     "tailwindcss": "3.0.24",
     "ts-config-single-spa": "3.0.0",
