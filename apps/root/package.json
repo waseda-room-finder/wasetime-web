@@ -47,7 +47,7 @@
     "tailwindcss": "3.0.24",
     "ts-config-single-spa": "3.0.0",
     "typescript": "4.7.3",
-    "vite": "4.3.5",
+    "vite": "4.5.3",
     "vite-plugin-dynamic-import": "0.9.6",
     "vite-plugin-ejs": "1.4.4",
     "vite-plugin-html": "3.2.0",
